@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  background-image: url("/src/images/bg-desktop.svg"),
+  background-image: url("../images/bg-desktop.svg"),
     linear-gradient(135deg, #674bafff, #674bafff);
   background-repeat: no-repeat, no-repeat;
   background-position: center top, center;
